@@ -1,0 +1,36 @@
+html {
+    font-size: 15px;
+}
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+a {
+    color: aliceblue;
+}
+
+a:visited {
+    color: aqua;
+}
+
+a:hover {
+    color: bisque;
+}
+
+table, tr, th, td, caption {
+    border: chocolate;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+#lobe {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#lobe td, #lobe th {
+    border: 1px solid black;
+    padding: 16px;
+}
