@@ -25,12 +25,3 @@ table, tr, th, td, caption {
     padding: 0.5rem;
 }
 
-#lobe {
-    border-collapse: collapse;
-    width: 100%;
-}
-
-#lobe td, #lobe th {
-    border: 1px solid black;
-    padding: 16px;
-}
